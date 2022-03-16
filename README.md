@@ -85,8 +85,13 @@ Author: `Nineria`
 
         java -Xms2G -Xmx2G -jar .\spigot-1.18.2.jar nogui
 
-2. Start `ngrok` server:
-
+2. Start [ngrok](https://ngrok.com/download):
+    First: Add authtoken 
+    
+        ngrok authtoken <token>
+    
+    Second: Start a tunnel
+    
         ./ngrok tcp 25565 --region ap
 
 ## Server IP address and Port (Example)
