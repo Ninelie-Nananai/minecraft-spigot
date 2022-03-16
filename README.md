@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="2022-03-08_21.01.25.png"/>
+</div>
+
 
 # Minecraft Dekhere Server by Nineria
 
