@@ -49,7 +49,7 @@ Author: `Nineria`
       - Copy `SEUS-Renewed-v1.0.1.zip` file and put it in the folder.
 
 ## Install and setup Server
-### How do i install minecraft server?
+### How to install and setup minecraft server?
 - search on the internet.
 
 ### Minecraft Server 1.18.2
