@@ -44,7 +44,10 @@ Author: `Nineria`
 - OptiFine 1.18.2: [Download](http://adfoc.us/serve/sitelinks/?id=475250&url=http://optifine.net/adloadx?f=preview_OptiFine_1.18.2_HD_U_H6_pre1.jar&x=ec24)
 - SEUS-Renewed: [Download](https://sonicether.com/shaders/download/renewed-v1-0-1/)
 
-## Installation
+## Installation 
+1. search on the internet.
+
+## How to play?
 1. Install while in game (Recommended)
     - Click `Options...`.
     - Click `Resource Packs`.
