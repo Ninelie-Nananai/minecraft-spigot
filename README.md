@@ -8,6 +8,15 @@
 Author: `Nineria` 
 
 ## Requirements
+### Resource Pack
+- Excalibur 1.18.1: [Download](https://www.mediafire.com/file/zin3cz824v8g55e/Excalibur_V1.18.1.zip/file
+)
+
+### Shader (Optional)
+- OptiFine 1.18.2: [Download](http://adfoc.us/serve/sitelinks/?id=475250&url=http://optifine.net/adloadx?f=preview_OptiFine_1.18.2_HD_U_H6_pre1.jar&x=ec24)
+- SEUS-Renewed: [Download](https://sonicether.com/shaders/download/renewed-v1-0-1/)
+
+## Installation 
 ### Minecraft Server 1.18.2
 - Download [minecraft_server.1.18.2.jar](https://launcher.mojang.com/v1/objects/c8f83c5655308435b3dcf03c06d9fe8740a77469/server.jar).
 
@@ -36,16 +45,8 @@ Author: `Nineria`
 - worldedit-bukkit-7.2.9
 - worldguard-bukkit-7.0.7-dist
 
-### Resource Pack
-- Excalibur 1.18.1: [Download](https://www.mediafire.com/file/zin3cz824v8g55e/Excalibur_V1.18.1.zip/file
-)
-
-### Shader (Optional)
-- OptiFine 1.18.2: [Download](http://adfoc.us/serve/sitelinks/?id=475250&url=http://optifine.net/adloadx?f=preview_OptiFine_1.18.2_HD_U_H6_pre1.jar&x=ec24)
-- SEUS-Renewed: [Download](https://sonicether.com/shaders/download/renewed-v1-0-1/)
-
-## Installation 
-1. search on the internet.
+### How do i install minecraft server?
+- search on the internet.
 
 ## How to play?
 1. Install while in game (Recommended)
