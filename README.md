@@ -17,13 +17,7 @@ Author: `Nineria`
 - SEUS-Renewed: [Download](https://sonicether.com/shaders/download/renewed-v1-0-1/)
 
 ## How to play?
-1. Install while in game (Recommended)
-    - Click `Options...`.
-    - Click `Resource Packs`.
-    - Click `Open Pack Folder`.
-    - Copy the `Excalibur_V1.18.1.zip` and put it in `resourcepacks` folder.
-
-2. Install `Excalibur` Resource Packs
+1. Install `Excalibur` Resource Packs
     - Download [Excalibur](https://www.mediafire.com/file/zin3cz824v8g55e/Excalibur_V1.18.1.zip/file
 ) ResourcePack File.
     - First Method (Recommended): Install Resource Packs while in game.
@@ -36,12 +30,12 @@ Author: `Nineria`
       - Go to `C:\Users\<username>\AppData\Roaming\.minecraft\resourcepacks`.
       - Copy `Excalibur_V1.18.1.zip` file and put it in the folder.
 
-3. Install OptiFine 1.18.2 (Optional)
+2. Install OptiFine 1.18.2 (Optional)
     - Download [OptiFine](http://adfoc.us/serve/sitelinks/?id=475250&url=http://optifine.net/adloadx?f=preview_OptiFine_1.18.2_HD_U_H6_pre1.jar&x=ec24)
     - Install OptiFine by double click on `OptiFine_1.18.2_HD_U_H6.jar`.
     - Click `Install` wait till finish and done.
 
-1. Install `SEUS-Renewed` Shader (Optional)
+3. Install `SEUS-Renewed` Shader (Optional)
     - Download [SEUS-Renewed](https://sonicether.com/shaders/download/renewed-v1-0-1/)
     - First Method (Recommended): Install Shader while in game
       - In game start menu
