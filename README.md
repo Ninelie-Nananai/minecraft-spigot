@@ -85,14 +85,16 @@ Author: `Nineria`
 
         java -Xms2G -Xmx2G -jar .\spigot-1.18.2.jar nogui
 
-2. Start [ngrok](https://ngrok.com/download):
-    First: Add authtoken 
+2. Start ngrok tunnel:
+    - Download [ngrok](https://ngrok.com/download)
+    - Copy `ngrok.exe` file and put it in mincraft server directory
+    - Add authtoken 
     
-        ngrok authtoken <token>
+            ngrok.exe authtoken <token>
     
-    Second: Start a tunnel
+    - Start a tunnel
     
-        ./ngrok tcp 25565 --region ap
+            ./ngrok.exe tcp 25565 --region ap
 
 ## Server IP address and Port (Example)
  
