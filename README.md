@@ -8,6 +8,12 @@
 Author: `Nineria` 
 
 ## Requirements
+### Minecraft Server 1.18.2
+- Download [minecraft_server.1.18.2.jar](https://launcher.mojang.com/v1/objects/c8f83c5655308435b3dcf03c06d9fe8740a77469/server.jar).
+
+### Spigot 1.18.2
+- Download [Spigot](https://download.getbukkit.org/spigot/spigot-1.18.2.jar).
+
 ### Plugin
 - AureliumSkills-Beta1.2.10
 - BetterSleeping
