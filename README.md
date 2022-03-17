@@ -55,7 +55,6 @@ Author: `Nineria`
 - [Autofish-0.9.4-fabric-mc1.18](https://www.curseforge.com/minecraft/mc-mods/autofish/download/3586323).
 - [eating-animation-1.5](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric/download/3651790).
 - [fabric-api-0.48.0+1.18.2](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3689020).
-- [firstperson-fabric-2.1.0-mc1.18-pre1](https://www.curseforge.com/minecraft/mc-mods/first-person-model/download/3523461).
 - [iris-mc1.18.2-1.2.2-build.32 (Optional for shader)](https://www.curseforge.com/minecraft/mc-mods/irisshaders/download/3687476).
 - [lambdynamiclights-2.1.0+1.17](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights/download/3541670).
 - [OptiFine_1.18.2_HD_U_H6 (Optional for shader)](http://adfoc.us/serve/sitelinks/?id=475250&url=http://optifine.net/adloadx?f=OptiFine_1.18.2_HD_U_H6.jar&x=2bc6).
