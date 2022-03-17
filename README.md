@@ -55,18 +55,21 @@ Author: `Nineria`
 - [Autofish-0.9.4-fabric-mc1.18](https://www.curseforge.com/minecraft/mc-mods/autofish/download/3586323).
 - [eating-animation-1.5](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric/download/3651790).
 - [fabric-api-0.48.0+1.18.2](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3689020).
-- [iris-mc1.18.2-1.2.2-build.32 (Optional for shader)](https://www.curseforge.com/minecraft/mc-mods/irisshaders/download/3687476).
+- [iris-mc1.18.2-1.2.2-build.32 (Optional for shader only)](https://www.curseforge.com/minecraft/mc-mods/irisshaders/download/3687476).
 - [lambdynamiclights-2.1.0+1.17](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights/download/3541670).
-- [OptiFine_1.18.2_HD_U_H6 (Optional for shader)](http://adfoc.us/serve/sitelinks/?id=475250&url=http://optifine.net/adloadx?f=OptiFine_1.18.2_HD_U_H6.jar&x=2bc6).
+- [OptiFine_1.18.2_HD_U_H6 (Optional for shader only)](http://adfoc.us/serve/sitelinks/?id=475250&url=http://optifine.net/adloadx?f=OptiFine_1.18.2_HD_U_H6.jar&x=2bc6).
 - [sodium-fabric-mc1.18.2-0.4.1+build.15 (Recommended)](https://www.curseforge.com/minecraft/mc-mods/sodium/download/3669187).
 
 ### Installation
 1. Download the Fabric installer from [fabric-installer-0.10.2](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.10.2/fabric-installer-0.10.2.exe).
-2. Double click on the file and press `Install`. A new game version and profile will be created in the launcher's menu, which you can now use to launch `Fabric`.
-3. Download all the `Recommended mods` above.
-4. Go to `C:\Users\<username>\AppData\Roaming\.minecraft\mods`.
-5. Copy all the Mods and put it in `mods` folder. 
-6. launch the game.
+2. Download the IRIS INSTALLER from [Download Universal JAR](https://github.com/IrisShaders/Iris-Installer/releases/download/2.0.3/Iris-Installer-2.0.3.jar). (Optional for shader only)
+   1. Open the `Iris-Installer-2.0.3.jar` file 
+   2. Check on `Install as Fabric Mod` box. After that click `Install`
+3. Open the file and press `Install`. A new game version and profile will be created in the launcher's menu, which you can now use to launch `Fabric`.
+4. Download all the `Recommended mods` above.
+5. Go to `C:\Users\<username>\AppData\Roaming\.minecraft\mods`.
+6. Copy all the Mods and put it in `mods` folder. 
+7. launch the game.
   
 ## Install and setup Server
 ### How to install and setup minecraft server?
