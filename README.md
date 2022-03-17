@@ -49,19 +49,26 @@ Author: `Nineria`
       - Copy `SEUS-Renewed-v1.0.1.zip` file and put it in the folder.
 
 ## How to install mods?
-### Reccommened mods
-- 3dskinlayers-fabric-1.4.2-mc1.18.2
-- appleskin-fabric-mc1.18.2-2.4.0
-- Autofish-0.9.4-fabric-mc1.18
-- ChunkAnimator-1.18-1.3.3
-- eating-animation-1.5
-- fabric-api-0.48.0+1.18.2
-- firstperson-fabric-2.1.0-mc1.18-pre1
-- iris-mc1.18.2-1.2.2-build.32 (Optional for shader)
-- lambdynamiclights-2.1.0+1.17
-- OptiFine_1.18.2_HD_U_H6 (Optional for shader)
-- sodium-fabric-mc1.18.2-0.4.1+build.15 (Recommended)
+### Recommended mods
+- [3dskinlayers-fabric-1.4.2-mc1.18.2](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/download/3672241).
+- [appleskin-fabric-mc1.18.2-2.4.0](https://www.curseforge.com/minecraft/mc-mods/appleskin/download/3686478).
+- [Autofish-0.9.4-fabric-mc1.18](https://www.curseforge.com/minecraft/mc-mods/autofish/download/3586323).
+- [eating-animation-1.5](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric/download/3651790).
+- [fabric-api-0.48.0+1.18.2](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3689020).
+- [firstperson-fabric-2.1.0-mc1.18-pre1](https://www.curseforge.com/minecraft/mc-mods/first-person-model/download/3523461).
+- [iris-mc1.18.2-1.2.2-build.32 (Optional for shader)](https://www.curseforge.com/minecraft/mc-mods/irisshaders/download/3687476).
+- [lambdynamiclights-2.1.0+1.17](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights/download/3541670).
+- [OptiFine_1.18.2_HD_U_H6 (Optional for shader)](http://adfoc.us/serve/sitelinks/?id=475250&url=http://optifine.net/adloadx?f=OptiFine_1.18.2_HD_U_H6.jar&x=2bc6).
+- [sodium-fabric-mc1.18.2-0.4.1+build.15 (Recommended)](https://www.curseforge.com/minecraft/mc-mods/sodium/download/3669187).
 
+### Installation
+1. Download the Fabric installer from [fabric-installer-0.10.2](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.10.2/fabric-installer-0.10.2.exe).
+2. Double click on the file and press `Install`. A new game version and profile will be created in the launcher's menu, which you can now use to launch `Fabric`.
+3. Download all the `Recommended mods` above.
+4. Go to `C:\Users\<username>\AppData\Roaming\.minecraft\mods`.
+5. Copy all the Mods and put it in `mods` folder. 
+6. launch the game.
+  
 ## Install and setup Server
 ### How to install and setup minecraft server?
 - search on the internet.
