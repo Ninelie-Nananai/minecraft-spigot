@@ -65,7 +65,7 @@ Author: `Nineria`
 2. Download the IRIS INSTALLER from [Download Universal JAR](https://github.com/IrisShaders/Iris-Installer/releases/download/2.0.3/Iris-Installer-2.0.3.jar). (Optional for shader only)
    1. Open the `Iris-Installer-2.0.3.jar` file 
    2. Check on `Install as Fabric Mod` box. After that click `Install`
-3. Open the file and press `Install`. A new game version and profile will be created in the launcher's menu, which you can now use to launch `Fabric`.
+3. Open the `fabric-installer-0.10.2.jar` file and press `Install`. A new game version and profile will be created in the launcher's menu, which you can now use to launch `Fabric`.
 4. Download all the `Recommended mods` above.
 5. Go to `C:\Users\<username>\AppData\Roaming\.minecraft\mods`.
 6. Copy all the Mods and put it in `mods` folder. 
