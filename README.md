@@ -48,6 +48,20 @@ Author: `Nineria`
       - Go to `C:\Users\<username>\AppData\Roaming\.minecraft\shaderpacks`.
       - Copy `SEUS-Renewed-v1.0.1.zip` file and put it in the folder.
 
+## How to install mods?
+### Reccommened mods
+- 3dskinlayers-fabric-1.4.2-mc1.18.2
+- appleskin-fabric-mc1.18.2-2.4.0
+- Autofish-0.9.4-fabric-mc1.18
+- ChunkAnimator-1.18-1.3.3
+- eating-animation-1.5
+- fabric-api-0.48.0+1.18.2
+- firstperson-fabric-2.1.0-mc1.18-pre1
+- iris-mc1.18.2-1.2.2-build.32 (Optional for shader)
+- lambdynamiclights-2.1.0+1.17
+- OptiFine_1.18.2_HD_U_H6 (Optional for shader)
+- sodium-fabric-mc1.18.2-0.4.1+build.15 (Recommended)
+
 ## Install and setup Server
 ### How to install and setup minecraft server?
 - search on the internet.
